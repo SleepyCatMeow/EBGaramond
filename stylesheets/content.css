@@ -1,0 +1,66 @@
+
+.sectt {
+  width: 1440px;
+  background-color: white;
+  height: 10760px;
+}
+.sec {
+  width: 1440px;
+  background-color: white;
+
+}
+.sect {
+  width: 1440px;
+  height: 240px;
+}
+
+.dio {
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  left: 35px;
+  top: 360px;
+
+}
+
+.p1 {
+  position: absolute;
+  width: 232px;
+  height: 30px;
+  left: 133px;
+  top: 297px;
+
+  font-family: EB Garamond;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height, or 123% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.83em;
+
+  color: #FFFFFF;
+}
+
+.p2 {
+  position: absolute;
+  width: 232px;
+  height: 30px;
+  left: 370px;
+  top: 297px;
+
+  font-family: EB Garamond;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height, or 123% */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.83em;
+
+  color: #FFFFFF;
+}
