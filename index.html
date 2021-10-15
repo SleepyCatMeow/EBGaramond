@@ -8,15 +8,19 @@
   * {
     box-sizing: border-box;
   }
+  a { color: inherit;
+  }
   body {
     width: 1440px;
     margin:0 auto;
     height: 6186px;
+    display: block;
+    position: relative;
 
   }
-  body::before {
+  /* body::before {
     content: "";
-    background: url('images/')
+    background: url('images/') */
   }
   </style>
 </head>
@@ -24,6 +28,14 @@
 <section class="first-screen">
   <div>
     <img class="face" src="images/EBG.png" alt="">
+  </div>
+</section>
+<section>
+  <div>
+      <img class="face" src="images/bigcube.png" alt="">
+      <p class="p1">regular*</p>
+      <p class="p2">medium*</p>
+      <img src="images/dio.png" class="dio">
   </div>
 </section>
 </body>
