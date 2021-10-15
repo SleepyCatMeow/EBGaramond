@@ -14,5 +14,8 @@ body {
 
 section {
   display: flex;
-  height: 720px;
+
+}
+* {
+  box-sizing: border-box;
 }
