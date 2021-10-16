@@ -245,6 +245,36 @@ width: 417px;
 height: 170px;
 left: 264px;
 top: 1689px;
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+color: #FFFFFF;
+
+}
+
+.g2 {
+position: absolute;
+width: 417px;
+height: 170px;
+left: 963px;
+top: 1773px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+color: #FFFFFF;
+}
+
+.g3 {
+position: absolute;
+width: 417px;
+height: 170px;
+left: 66px;
+top: 2453px;
 
 font-family: EB Garamond;
 font-style: normal;
@@ -254,12 +284,231 @@ line-height: 31px;
 
 color: #FFFFFF;
 }
+.g4 {
+position: absolute;
+width: 417px;
+height: 170px;
+left: 845px;
+top: 2799px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+.g5 {
+position: absolute;
+width: 417px;
+height: 170px;
+left: 274px;
+top: 3168px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+.g6 {
+position: absolute;
+width: 417px;
+height: 170px;
+left: 325px;
+top: 3851px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+.opasno {
+  position: absolute;
+  width: 261px;
+  height: 655px;
+  left: 4px;
+  top: 3741px;
+    font-family: EB Garamond;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 49.5%;
+  text-align: center;
+  letter-spacing: -0.145em;
+    color: #000000;
+}
+.tab1 {
+position: absolute;
+width: 353px;
+height: 269.5px;
+left: 58.5px;
+top: 1963.5px;
+}
+.tab2 {
+position: absolute;
+width: 353px;
+height: 269.5px;
+left: 792.5px;
+top: 2246.5px;
+}
+.tab3 {
+position: absolute;
+width: 353px;
+height: 269.5px;
+left: 342.5px;
+top: 2716.5px;
+}
+.tab4 {
+position: absolute;
+width: 353px;
+height: 269.5px;
+left: 1075.5px;
+top: 3279.5px;
+}
+.tab5 {
+position: absolute;
+width: 353px;
+height: 269.5px;
+left: 34.5px;
+top: 3466.5px;
+}
+.tab6 {
+position: absolute;
+width: 353px;
+height: 269.5px;
+left: 570.5px;
+top: 4121.5px;
+}
+.geli1 {
+position: absolute;
+left: 27px;
+top: 1501px;
+}
+.gelipic {
+position: absolute;
+width: 245.87px;
+height: 210px;
+left: 463px;
+top: 2020px;
+}
+.dio1 {
+position: absolute;
+left: 798px;
+top: 1501px;
+}
+.diopic {
+position: absolute;
+left: 1050px;
+top: 2005.12px;
+}
+.nep1 {
+position: absolute;
+left: 565px;
+top: 2261px;
+}
+.neppic {
+position: absolute;
+left: 40px;
+top: 2623px;
+}
+.ros1 {
+position: absolute;
+left: 1238px;
+top: 2540px;
+}
+.rospic {
+position: absolute;
+left: 802px;
+top: 3186.36px;
+}
+.cef1 {
+position: absolute;
+left: 27px;
+top: 3010px;
+}
+.dar1 {
+position: absolute;
+left: 819px;
+top: 3772px;
+}
 .viv1 {
 position: absolute;
 width: 451px;
 height: 138px;
 left: 316px;
 top: 1480px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 157%;
+}
+.viv2 {
+position: absolute;
+width: 451px;
+height: 138px;
+left: 1014px;
+top: 1483px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 157%;
+}
+.viv3 {
+position: absolute;
+width: 451px;
+height: 138px;
+left: 47px;
+top: 2236px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 157%;
+}
+.viv4 {
+position: absolute;
+width: 451px;
+height: 138px;
+left: 819px;
+top: 2518px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 157%;
+}
+.viv5 {
+position: absolute;
+width: 451px;
+height: 138px;
+left: 325px;
+top: 2989px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 157%;
+}
+.viv6 {
+position: absolute;
+width: 451px;
+height: 138px;
+left: 932px;
+top: 3553px;
 
 font-family: EB Garamond;
 font-style: normal;
