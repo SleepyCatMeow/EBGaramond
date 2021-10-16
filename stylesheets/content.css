@@ -2,7 +2,7 @@
 .sectt {
   width: 1440px;
   background-color: white;
-  height: 10760px;
+  height: 4391px;
 }
 .sec {
   width: 1440px;
@@ -73,45 +73,33 @@ left: 419px;
 top: 546px;
 }
 .p1 {
-  position: absolute;
-  width: 232px;
-  height: 30px;
-  left: 133px;
-  top: 297px;
-
-  font-family: EB Garamond;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 24px;
-  line-height: 29px;
-
-
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.83em;
-
-  color: #FFFFFF;
+position: absolute;
+left: 133px;
+top: 297px;
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+letter-spacing: 0.83em;
+color: #FFFFFF;
 }
 
 .p2 {
-  position: absolute;
-  width: 232px;
-  height: 30px;
-  left: 370px;
-  top: 297px;
-
-  font-family: EB Garamond;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 24px;
-  line-height: 29px;
-
-
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.83em;
-
-  color: #FFFFFF;
+position: absolute;
+left: 370px;
+top: 297px;
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+letter-spacing: 0.83em;
+color: #FFFFFF;
 }
 .p3 {
 position: absolute;
@@ -185,4 +173,97 @@ height: 608.21px;
 left: 1008.26px;
 top: 449.84px;
 background: none ;
+}
+.lin {
+position: absolute;
+left: 0px;
+top: 1475px;
+}
+.btab1 {
+position: absolute;
+left: 223.5px;
+top: 1624px;
+}
+.btab2 {
+position: absolute;
+left: 922.5px;
+top: 1694px;
+}
+.btab3 {
+position: absolute;
+left: 27px;
+top: 2374px;
+}
+.btab5 {
+position: absolute;
+left: 235px;
+top: 3117px;
+}
+.btab4 {
+position: absolute;
+left: 806px;
+top: 2765px;
+}
+.btab6 {
+position: absolute;
+left: 286px;
+top: 3772px;
+}
+.viveska1 {
+position: absolute;
+left: 296px;
+top: 1477px;
+}
+.viveska2 {
+position: absolute;
+left: 994px;
+top: 1480px;
+}
+.viveska3 {
+position: absolute;
+left: 27px;
+top: 2233px;
+}
+.viveska4 {
+position: absolute;
+left: 799px;
+top: 2515px;
+}
+.viveska5 {
+position: absolute;
+left: 305px;
+top: 2986px;
+}
+.viveska6 {
+position: absolute;
+left: 912px;
+top: 3550px;
+}
+.g1 {
+position: absolute;
+width: 417px;
+height: 170px;
+left: 264px;
+top: 1689px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+.viv1 {
+position: absolute;
+width: 451px;
+height: 138px;
+left: 316px;
+top: 1480px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 157%;
 }
