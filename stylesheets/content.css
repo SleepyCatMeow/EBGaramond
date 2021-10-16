@@ -433,10 +433,20 @@ position: absolute;
 left: 27px;
 top: 3010px;
 }
+.cefpic {
+position: absolute;
+left: 506px;
+top: 3536px;
+}
 .dar1 {
 position: absolute;
 left: 819px;
 top: 3772px;
+}
+.darpic {
+position: absolute;
+left: 994px;
+top: 3737px;
 }
 .viv1 {
 position: absolute;
@@ -515,4 +525,159 @@ font-style: normal;
 font-weight: 600;
 font-size: 72px;
 line-height: 157%;
+}
+.wtabtext1 {
+position: absolute;
+width: 160px;
+height: 145px;
+left: 90px;
+top: 1978px;
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabtext11 {
+position: absolute;
+width: 194px;
+height: 145px;
+left: 263px;
+top: 1978px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabdiotext1 {
+position: absolute;
+width: 160px;
+height: 145px;
+left: 824px;
+top: 2261px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabdiotext11 {
+position: absolute;
+width: 194px;
+height: 145px;
+left: 997px;
+top: 2261px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabneptext1 {
+position: absolute;
+width: 160px;
+height: 145px;
+left: 374px;
+top: 2731px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabneptext11 {
+position: absolute;
+width: 194px;
+height: 145px;
+left: 547px;
+top: 2731px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabrostext1 {
+position: absolute;
+width: 160px;
+height: 145px;
+left: 1107px;
+top: 3294px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabrostext11 {
+position: absolute;
+width: 194px;
+height: 145px;
+left: 1280px;
+top: 3294px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabceftext1 {
+position: absolute;
+width: 160px;
+height: 145px;
+left: 66px;
+top: 3481px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabceftext11 {
+position: absolute;
+width: 194px;
+height: 145px;
+left: 239px;
+top: 3481px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabdartext1 {
+position: absolute;
+width: 160px;
+height: 145px;
+left: 602px;
+top: 4136px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 167%;
+}
+.wtabdartext11 {
+position: absolute;
+width: 194px;
+height: 145px;
+left: 775px;
+top: 4136px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 167%;
 }
