@@ -684,3 +684,100 @@ line-height: 31px;
 
 color: #FFFFFF;
 }
+.a1 {
+position: absolute;
+left: 132px;
+top: 1806px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 54.5%;
+}
+.a2 {
+position: absolute;
+left: 846px;
+top: 1762px;
+
+font-family: EB Garamond;
+font-style: italic;
+font-weight: bold;
+font-size: 40px;
+line-height: 54.5%;
+}
+.a3 {
+position: absolute;
+left: 942px;
+top: 2077px;
+
+font-family: EB Garamond;
+font-style: italic;
+font-weight: 500;
+font-size: 40px;
+line-height: 54.5%;
+}
+.a4 {
+position: absolute;
+left: 613px;
+top: 2523px;
+
+font-family: EB Garamond;
+font-style: italic;
+font-weight: 500;
+font-size: 40px;
+line-height: 54.5%;
+}
+.a5 {
+position: absolute;
+left: 997px;
+top: 2649px;
+
+font-family: EB Garamond;
+font-style: italic;
+font-weight: 600;
+font-size: 40px;
+line-height: 54.5%;
+}
+.a6 {
+position: absolute;
+left: 1280px;
+top: 3123px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 22px;
+}
+.a7 {
+position: absolute;
+left: 96px;
+top: 3270px;
+font-family: EB Garamond;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 22px;
+}
+.a8 {
+position: absolute;
+left: 912px;
+top: 3707px;
+
+font-family: EB Garamond;
+font-style: italic;
+font-weight: 600;
+font-size: 40px;
+line-height: 54.5%;
+}
+.a9 {
+position: absolute;
+left: 452px;
+top: 4118px;
+font-family: EB Garamond;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 54.5%;
+}
