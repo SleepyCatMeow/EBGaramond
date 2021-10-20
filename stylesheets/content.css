@@ -160,6 +160,7 @@ background: none ;
 }
 .lin {
 position: absolute;
+background-image: url(images/lin.png);
 left: 0px;
 top: 1475px;
 }
@@ -176,7 +177,7 @@ top: 1694px;
 .btab3 {
 position: absolute;
 left: 27px;
-top: 2374px;
+top: 2372px;
 }
 .btab5 {
 position: absolute;
@@ -664,4 +665,22 @@ font-style: normal;
 font-weight: normal;
 font-size: 13px;
 line-height: 167%;
+}
+.minicube {
+position: absolute;
+left: 0px;
+top: 4391px;
+}
+.whitetextcube {
+position: absolute;
+left: 35px;
+top: 4408px;
+
+font-family: EB Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
 }
